@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/chimame/common_engine_sample
-  revision: 8011b9e6a715fa0a7dbe2fa37fcac1be622e4984
+  remote: https://github.com/chimame/rails_engine_sample.git
+  revision: e0c4f8af097b24e3d43e2fdb1c620b34717d7453
   specs:
     rails_engine_sample (0.0.1)
       rails (~> 4.2.6)
